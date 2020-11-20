@@ -1,7 +1,7 @@
-# calculadora-sencilla-html-js
-Una calculadora muy sencilla creada en html y javascript.
+# simple-calculator-html-css-java
+A very simple calculator writed in HTML, CSS and JavaScript
 
-Creada por Mario Bote (HTML & CSS) y Barrasa (JavaScript)
+Created by por Mario Bote (HTML & CSS) and Barrasa (JavaScript)
 
 
 HOW TO INSTALL?
