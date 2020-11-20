@@ -1,0 +1,74 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: bebas neue;
+	font-size: 40px;
+}
+
+.calculadora {
+	background-color: grey;
+	width: fit-content;
+	margin: auto;	
+	margin-top: 35px;
+}
+
+.botones {
+	display: flex;
+}
+
+.pantalla {
+	padding: 18px;
+}
+
+#resultado {
+	padding: 9px;
+	background-color: white;
+	font-family: bebas neue;
+}
+
+.numeros {
+	padding: 18px 9px 18px 9px;
+}
+
+.operaciones {
+	padding: 18px 9px 18px 9px;
+}
+
+.operaciones div {
+	text-align: center;
+	background-color: white;
+}
+
+.operaciones button {
+	width: 54px;
+	height: 54px;
+	padding: 9px 15px;
+    border: 0px;
+	background-color: white;
+}
+
+.operaciones button:hover {
+	box-shadow: 0px 0px 12px black;
+}
+
+.numeros div {
+	text-align: center;
+	background-color: white;
+}
+
+.numeros button {
+	width: 54px;
+	height: 54px;
+	border: 0px;
+	background-color: white;
+}
+
+.numeros button:hover {
+	box-shadow: 0px 0px 12px black;
+}
+
+button {
+	padding: 0px;
+	margin: 14px;
+	font-size: 37px;
+}
